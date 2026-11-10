@@ -139,8 +139,8 @@ Exploring complementary image representations through four expert branches:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Myths-calm42&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=67e8f9&icon_color=22d3ee&text_color=c9d1d9" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myths-calm42&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=67e8f9&text_color=c9d1d9" height="165" alt="Most used languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=Myths-calm42&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=67e8f9&icon_color=22d3ee&text_color=c9d1d9" height="165" alt="GitHub statistics" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Myths-calm42&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=67e8f9&text_color=c9d1d9" height="165" alt="Most used languages" />
 
 </div>
 
