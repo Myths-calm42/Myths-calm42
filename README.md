@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Vikrant Kumar — AI, ML, Research and Software Engineering" width="100%" />
+<img src="profile-banner.svg" alt="Vikrant Kumar — AI, ML, Research and Software Engineering" width="100%" />
 
 ### AI/ML Engineer · Deep Learning Researcher · Software Developer
 
